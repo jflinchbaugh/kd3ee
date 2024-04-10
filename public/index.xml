@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>John Flinchbaugh KC3WWC</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on John Flinchbaugh KC3WWC</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Aug 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ARRL Bulletin over HF</title>
+      <link>http://localhost:1313/post/2023-08-29-arrl-bulletin/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2023-08-29-arrl-bulletin/</guid>
+      <description>I had fldigi listening to SDR++ tuned to 7096kHz LSB for 20 minutes and decoded a couple different documents via differetn modes.&#xA;I also spun the dial to catch a couple other transmissions.&#xA;BPSK-31 &amp;lt;&amp;lt;2023-08-29T22:02Z BPSK-31 @ 7096000-0959&amp;gt;&amp;gt; ARLB019 From ARRL Headquarters Newington CT August 29, 2023 To all radio amateurs SB QST ARL ARLB019 ARLB019 Idalia Prompts Amateur Radio Activations Volunteers of ARRL are activating ahead of Tropical Storm Idalia.</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>My name is Inigo Montoya. I have the following qualities:&#xA;I rock a great mustache I&amp;rsquo;m extremely loyal to my family What else do you need?&#xA;my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
+    </item>
   </channel>
 </rss>
