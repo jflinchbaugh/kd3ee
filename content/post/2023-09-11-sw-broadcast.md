@@ -1,6 +1,7 @@
 +++
 title = 'SW Broadcast'
 date = 2023-09-11
+tags = ['shortwave', 'broadcast', 'dx', 'swl']
 draft = false
 +++
 
