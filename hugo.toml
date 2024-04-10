@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-  #homeTitle = "John Flinchbaugh"
+  homeTitle = "John Flinchbaugh KC3WWC"
   subtitle = "Adventures in Amateur Radio"
   mainSections = ["post","posts"]
   logo = "img/radio-avatar.jpg" # Expecting square dimensions
