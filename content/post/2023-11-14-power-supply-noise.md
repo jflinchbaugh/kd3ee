@@ -1,8 +1,8 @@
 ---
-title: 41-Foot Random Wire Noise
+title: Power Supply Noise
 subtitle: 
 date: 2023-11-14
-tags: ['efrw', 'randomwire', 'noise']
+tags: ['efrw', 'randomwire', 'noise', 'power']
 draft: false
 ---
 
