@@ -9,7 +9,7 @@ draft: false
 I participated in the 
 [RTTY Round-Up](https://contests.arrl.org/ContestRules/RTTY-RU-Rules.pdf).
 
-# Trouble with fldigi/R1CBU
+### Trouble with fldigi/R1CBU
 
 I screwed around lots trying to get `fldigi` talking to the radio.
 R1CBU software works great with `wsjt-x`,
@@ -34,7 +34,7 @@ for G106](https://sourceforge.net/projects/fldigi/files/xmls/xiegu/).
 Then I could "tune" power output following 
 [instructions in `fldigi` manual](http://www.w1hkj.com/FldigiHelp/audio_adjust_page.html).
 
-# Working!
+### Working!
 
 I started making some contacts on 10M and 15M.
 It's much more like voice contacts: 

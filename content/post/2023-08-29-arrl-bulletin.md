@@ -13,7 +13,7 @@ via differetn modes.
 I also spun the dial
 to catch a couple other transmissions.
 
-# BPSK-31
+### BPSK-31
 
 ```
 <<2023-08-29T22:02Z BPSK-31 @ 7096000-0959>>
@@ -186,7 +186,7 @@ GL de W1AW
 ARRL Headquarters Station W1AW in Newington CT.
 ```
 
-# Emergency CWN from W1AW via CW at 7049 LSB
+### Emergency CWN from W1AW via CW at 7049 LSB
 
 ```
 WX4NHC AMATUR RADIO STATION TT THE NATIONAL
@@ -197,7 +197,7 @@ PLEASE RELAY ANY SURFACE REPORTS, WEATS E E HATA, FLOODING, DAUAGE, TO THEM BY O
 DE W1AW <BT> THE HURRICANE VOIP NET PLANS TO ACTIVATE ON TUESDAY. IN ADDITION TO REPORTS MEETING SKYWARN CRTERIA, THE OPE
 ```
 
-# Olivia/16-500 at 7074 LSB
+### Olivia/16-500 at 7074 LSB
 
 ```
 <<2023-08-30T00:35Z OL 64-500 @ 7096000-0988>>
@@ -207,7 +207,7 @@ Bigger risks in Gainesville, Jacksonville, and then up the GA/SC/NC coast.
 I think we will get a few inches rain and breezy, if it holds its track.
 ```
 
-# Another Opportunity at 9pm
+### Another Opportunity at 9pm
 
 I again caught the ARRL bulletin at 9pm in PSK-31 and in MFSK-16.
 
