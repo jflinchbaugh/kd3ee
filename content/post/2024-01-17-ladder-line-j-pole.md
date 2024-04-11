@@ -12,6 +12,8 @@ at the Hamfest
 for a couple dollars.
 I rebuilt the connections, 
 firmed up broken parts with some wood splints and tape,
-and tuned it with NanoVNA.
+and tuned it with the NanoVNA.
 
-It works pretty nicely for 2m and 70cm.
+It seems to be working pretty nicely for 2m and 70cm.
+I'm pulling in stronger signals, 
+and still able to transmit.
