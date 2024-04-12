@@ -37,3 +37,4 @@ draft: false
   - Slight repositions with unintuitive results
   - What conditions affect propagation to a repeater like this one?
   - What can I measure?
+- Requirements for the Scout badge in radio?
