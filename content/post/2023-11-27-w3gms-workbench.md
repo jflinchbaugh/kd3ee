@@ -1,5 +1,5 @@
 ---
-title: W3GMS Workbench
+title: W3GMS Workbench - 2023-11-27
 subtitle: 
 date: 2023-11-27
 tags: ['w3gms', 'workbench', 'net']
