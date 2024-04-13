@@ -1,7 +1,7 @@
 ---
 title: NUNU Firmware UV-K5 & K6
 subtitle: 
-date: 2024-04-13T10:54:25-04:00
+date: 2024-04-03
 tags: ['uvk5', 'uvk6', 'nunu', 'spectrum']
 draft: false
 ---
