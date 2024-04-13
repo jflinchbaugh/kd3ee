@@ -16,6 +16,8 @@ the audio/CAT control was confusing or non-existent,
 and it liked to lock up and stop updating its screen.
 I returned it to Amazon.)_
 
+<!--more-->
+
 I had been in a hurry,
 since I was heading to Florida for the week.
 While I was down there, 

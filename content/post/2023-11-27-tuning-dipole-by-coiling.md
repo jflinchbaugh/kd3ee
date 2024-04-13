@@ -17,6 +17,8 @@ I can run 40m with tuner turned off.
 I'm hitting Europe, Central America, Canada, 
 and the midwest US.
 
+<!--more-->
+
 I figure, 
 since the wires are insulated 
 and kept parallel to each other,

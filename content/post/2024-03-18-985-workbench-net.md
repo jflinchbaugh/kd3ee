@@ -13,6 +13,7 @@ draft: false
   - Signal is good then gone every so many seconds
   - Checked it for loose connections in the wind. It seems fine.
 - I've been learning to configure fldigi more
+<!--more-->
 - [BARTG RTTY contest](https://bartg.org.uk/wp/bartg-hf-rtty-contest/) 
    over the weekend
   - I finally successfully ran the frequency

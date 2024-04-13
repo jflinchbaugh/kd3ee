@@ -15,6 +15,8 @@ It got bad enough to completely cut-out.
 I was using my simple wire dipole hanging 
 in the tree outside.
 
+<!--more-->
+
 K3IR had been frustratingly quiet as well,
 so I checked the antenna with the NanoVNA
 as it hung outside.

@@ -19,6 +19,8 @@ It wouldn't key the radio.
 Switching back to stock software on the radio worked fine with `flrig`,
 but where's the fun in that.
 
+<!--more-->
+
 For `flrig`, 
 I could tell it 
 that it was an older version 

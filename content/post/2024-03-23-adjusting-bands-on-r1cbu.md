@@ -17,6 +17,8 @@ to follow the US band plan/privileges:
 - Rebuild the db: `sqlite3 params.db < params.sql`
 - Copy the new `params.db` to the `DATA` partition of the SD card
 
+<!--more-->
+
 Rebuilding the database
 loses all your settings 
 on the radio,

@@ -13,6 +13,7 @@ draft: false
 - Started testing a longer 71-foot (21.65m) EFRW after months 
   of using the shorter 41-foot EFRW.
   - seems mostly the same, so far.
+<!--more-->
 - ARRL Internationl DX SSB Contest
   - First time using SSB on HF
     - Usually digital modes
