@@ -34,7 +34,7 @@ draft: false
 - started a website for all my notes since october
 
 ### 985 Breakfast on Friday
-- Barry will have lots of coax, antennas, analyzers, etc for sale.
+- Lots of coax, antennas, analyzers, etc for sale.
 
 ### Halyard on dipole install
 - AF3Z, Jim
