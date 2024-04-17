@@ -28,6 +28,11 @@ so I finished the chokes at home.
 It was my first time trying
 to crimp those SMA connectors.
 
+I got a quick tour
+of all the repeater hardware.
+There are a lot more services
+running on these towers than I realized.
+
 {{< gallery >}}
 {{< figure link="/img/2024/2024-04-17-k3ir.jpg" caption="K3IR Tower" >}}
 {{< figure link="/img/2024/2024-04-17-chokes.jpg" caption="Chokes" >}}
