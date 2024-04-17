@@ -8,8 +8,8 @@ draft: false
 
 I visited the K3IR tower site
 for their _Elmer Night_.
-People were configuring cameras;
-testing an ultra-portable FT8 setup:
+People were configuring cameras
+and testing an ultra-portable FT8 setup:
 - truSDX radio
 - ft8cn on a phone
 - very lightweight wire antenna and transformer kit
