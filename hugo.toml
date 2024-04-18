@@ -133,3 +133,16 @@ pygmentsCodefencesGuessSyntax = true
     name = "POTA"
     url = "https://pota.app/#/profile/KC3WWC"
     weight = 4
+[[menu.main]]
+    name = "Other Places"
+    weight = 5
+[[menu.main]]
+    parent = "Other Places"
+    name = "Tech"
+    url = "https://www.hjsoft.com/blog/"
+    weight = 1
+[[menu.main]]
+    parent = "Other Places"
+    name = "Photography"
+    url = "https://photography.johnflinchbaugh.com/"
+    weight = 2
