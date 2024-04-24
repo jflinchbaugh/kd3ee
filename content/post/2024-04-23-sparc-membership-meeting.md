@@ -64,3 +64,7 @@ at the Ham Fest on a walk-in basis.
 - I chatted with JJ, [KC3QEH](https://www.qrz.com/db/KC3QEH). 
   I need to look 
   into his [POTA activations](https://pota.app/#/profile/KC3QEH).
+
+### Club Net
+I checked into the club net 
+for the first time tonight.
