@@ -9,6 +9,18 @@ draft: false
 ### Joined the Club
 My membership was [approved](https://k3ir.org/2024/04/23/sparc-meeting-minutes-2024-04-23/), 
 so [SPARC](https://k3ir.org/) now has 146 members.
+Mark asked if I'm a climber. 
+It sounds like lots of people chicken out
+about half way up when
+climbing the tower.
+When studying
+for my license,
+I didn't commit
+a lot of the tower stuff
+to memory,
+since I didn't expect 
+to be involved 
+in that sort of thing.
 
 ### Ham Fest in York
 SPARC will be 
