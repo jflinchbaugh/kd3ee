@@ -7,11 +7,12 @@ draft: false
 ---
 
 ### Joined the Club
-My membership was approved, 
-so the club now have 146 members.
+My membership was [approved](https://k3ir.org/2024/04/23/sparc-meeting-minutes-2024-04-23/), 
+so [SPARC](https://k3ir.org/) now has 146 members.
 
 ### Ham Fest in York
-SPARC will be at the Ham Fest in York
+SPARC will be 
+at the [Ham Fest in York](https://www.yorkhamfest.org/)
 with some "ham junk" for sale.
 Ralph, from Radio Shack, 
 bought Souders' small hardware business,
