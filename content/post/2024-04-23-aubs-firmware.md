@@ -25,7 +25,7 @@ It has some really cool features for scanning:
     - 4 = satellites
 - press `*` to lockout a frequency from scan.
 - fast scan like egzumer
-- has frequency spectrum analyzer, but not memory spectrum analyzer
+- frequency spectrum analyzer, but no memory spectrum analyzer like nunu.
 
 This is my daily driver now on both my radios.
 
