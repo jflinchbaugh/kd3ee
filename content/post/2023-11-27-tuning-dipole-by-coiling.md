@@ -17,10 +17,10 @@ I can run 40m with tuner turned off.
 I'm hitting Europe, Central America, Canada, 
 and the midwest US.
 
-<!--more-->
-
 I figure, 
 since the wires are insulated 
 and kept parallel to each other,
 the coil is serving as feed line
 and not part of the antenna.
+
+<!--more-->

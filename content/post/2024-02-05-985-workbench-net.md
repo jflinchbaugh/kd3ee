@@ -28,8 +28,6 @@ draft: false
   - Next try a different character set: cwops
   - Next more traditional copying exercises
 
-<!--more-->
-
 ### Question
 - Often rebuilding and testing antennas
   - On HF, I can test with FT8 and pskreporter
@@ -40,3 +38,5 @@ draft: false
   - What conditions affect propagation to a repeater like this one?
   - What can I measure?
 - Requirements for the Scout badge in radio?
+
+<!--more-->

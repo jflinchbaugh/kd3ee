@@ -11,7 +11,6 @@ and got lots
 of discussion 
 about the FM bandstop filter.
 
-
 > When I started adding better external antennas, 
 > I could reach further (tx and rx), 
 > but I also found that some VHF frequencies got much worse.

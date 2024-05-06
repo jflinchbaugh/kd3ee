@@ -13,7 +13,6 @@ draft: false
 - Started testing a longer 71-foot (21.65m) EFRW after months 
   of using the shorter 41-foot EFRW.
   - seems mostly the same, so far.
-<!--more-->
 - ARRL Internationl DX SSB Contest
   - First time using SSB on HF
     - Usually digital modes
@@ -49,3 +48,5 @@ I tried to keep them as low as I could understand.
 RIT/XIT might have been useful for longer conversations.
 
 What's the best practice tuning SSB to hear clearly and tx as clearly as possible?
+
+<!--more-->

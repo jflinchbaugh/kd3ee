@@ -32,8 +32,6 @@ so he'll have all those small accessories there.
 Testing will be available
 at the Ham Fest on a walk-in basis.
 
-<!--more-->
-
 ### Other Programs and Notes
 - Breakfast in Manheim, every 2nd Saturday,
   at City Star Diner. 
@@ -68,3 +66,5 @@ at the Ham Fest on a walk-in basis.
 ### Club Net
 I checked into the club net 
 for the first time tonight.
+
+<!--more-->

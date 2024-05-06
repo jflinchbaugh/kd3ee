@@ -22,8 +22,6 @@ in our way,
 and I heard the automated messages reporting
 clear track conditions.
 
-<!--more-->
-
 ### CMU Buggy Net
 
 Scanning the entire 2m band
@@ -32,3 +30,4 @@ I heard the radio club kids
 running their regular net 
 that supports [buggy practices](http://www.w3vc.org/buggy.html).
 
+<!--more-->

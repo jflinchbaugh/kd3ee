@@ -13,8 +13,6 @@ that buried real signals
 when plugged
 into AC power.
 
-<!--more-->
-
 Running on battery was fine,
 and running 
 on the external lead-acid 12V battery
@@ -65,3 +63,5 @@ for portable operation.
 I use the Ateck power supply
 on my desk by itself
 to power the radio at home.
+
+<!--more-->

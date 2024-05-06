@@ -8,8 +8,6 @@ draft: false
 
 17 people attended the net.
 
-<!--more-->
-
 ### My Week in Radio
 - POTA: Ridley Creek, east of West Chester
   - 21.56m efrw
@@ -64,3 +62,4 @@ draft: false
   - We don't think so. It should transmit and receive
     on standard 144.390MHz
 
+<!--more-->

@@ -17,8 +17,6 @@ to follow the US band plan/privileges:
 - Rebuild the db: `sqlite3 params.db < params.sql`
 - Copy the new `params.db` to the `DATA` partition of the SD card
 
-<!--more-->
-
 Rebuilding the database
 loses all your settings 
 on the radio,
@@ -27,6 +25,8 @@ but I can now see where
 the general privileges start and end
 on each band.
  
+<!--more-->
+
 Here's the resulting patch file 
 to make the changes I made:
 ```
@@ -87,3 +87,4 @@ index b2d92a3..265ff4f 100644
  CREATE TABLE params(
      name        TEXT PRIMARY KEY ON CONFLICT REPLACE,
 ```
+

@@ -19,8 +19,6 @@ It wouldn't key the radio.
 Switching back to stock software on the radio worked fine with `flrig`,
 but where's the fun in that.
 
-<!--more-->
-
 For `flrig`, 
 I could tell it 
 that it was an older version 
@@ -47,3 +45,5 @@ They're on the 3rd page of macros in `fldigi`.
 
 I've made at least a few contacts, 
 so I'll submit them to the contest
+
+<!--more-->

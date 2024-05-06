@@ -27,8 +27,6 @@ Keeping the radials slightly flatter
 had a lower SWR
 than the 45 degrees suggested in the original design.
 
-<!--more-->
-
 This ground plane antenna feeds from the bottom,
 which is physically more sound
 than the vertical dipole 
@@ -41,3 +39,5 @@ and Parkesburg with no problem.
 {{< gallery >}}
 {{< figure link="/img/2024/2024-04-24-2m-ground-plane-antenna.jpg" caption="2m Ground Plane Antenna" >}}
 {{< /gallery >}}
+
+<!--more-->

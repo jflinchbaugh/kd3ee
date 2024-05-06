@@ -16,8 +16,6 @@ the audio/CAT control was confusing or non-existent,
 and it liked to lock up and stop updating its screen.
 I returned it to Amazon.)_
 
-<!--more-->
-
 I had been in a hurry,
 since I was heading to Florida for the week.
 While I was down there, 
@@ -33,3 +31,5 @@ I also picked up a couple accessories shortly afterward to go with it:
 - speaker wire
 - banana clip connectors
 - Ham Radio Today: X6100 book on kindle
+
+<!--more-->

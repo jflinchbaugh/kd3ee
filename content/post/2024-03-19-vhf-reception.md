@@ -15,8 +15,6 @@ It got bad enough to completely cut-out.
 I was using my simple wire dipole hanging 
 in the tree outside.
 
-<!--more-->
-
 K3IR had been frustratingly quiet as well,
 so I checked the antenna with the NanoVNA
 as it hung outside.
@@ -47,3 +45,5 @@ on the 3d printer is better.
 Is the dipole outside too sensitive 
 and bringing in more signal than
 the frontend of the UV-K5 can handle?
+
+<!--more-->

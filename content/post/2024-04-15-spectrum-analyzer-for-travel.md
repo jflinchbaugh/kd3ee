@@ -16,11 +16,11 @@ stepping on 5.00kHz,
 and I had a pretty good picture
 of any repeaters to hear out there.
 
-<!--more-->
-
 Once I heard something,
 I could pop open RepeaterBook
 on my phone and see what it was,
 but it saved me lots of trouble
 programming anything into the radio
 ahead of time to not necessarily need it.
+
+<!--more-->

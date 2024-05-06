@@ -18,7 +18,6 @@ but my summary is still good._
   - Restrung the EFRW antenna for HF
     - a little higher, straighter in the tree
   - It's great fun to throw wires and strings in trees
-  <!--more-->
 - Overload on UV-K5 with better antennas
   - UV-K5 & UV-K6 for comparison - not broken
   - Balance antenna location good enough but not _too_ good
@@ -41,3 +40,5 @@ but my summary is still good._
   - It's so difficult to stay focused copying 
     at 20wpm even 
     for 1 minute
+
+  <!--more-->

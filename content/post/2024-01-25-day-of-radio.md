@@ -17,8 +17,6 @@ near Middletown
 to activate
 on 10m FT8/FT4.
 
-<!--more-->
-
 I used 2 different antennas:
     - initially used Grabil whip fully extended, shorted coil, w/ tuner
     - 12.5m EFRW thrown into a tree
@@ -30,3 +28,5 @@ from Oregon, Washington, and I even got Alaska.
 Later that day, 
 I also contacted the Clipperton DX station, TX5S,
 on 40m via FT8
+
+<!--more-->
