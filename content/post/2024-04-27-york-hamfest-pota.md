@@ -34,7 +34,7 @@ so I had to debug that and push them back together.
 I operated 17m mostly, FT8, 
 and contacts came a bit slow.
 
-#### Sam Lewis US-1418
+#### Sam Lewis, US-1418
 
 This time I stung up the 21.56m EFRW, 
 2-3m off ground on ends, 
