@@ -8,10 +8,9 @@ draft: false
 
 The ISS passed at 8:55am EDT
 at 49 degrees.
-My 1/4 wave ground plane antenna
-in the tree in the backyard
+My vertical 1/4-wave ground plane antenna
+in the tree
 picked it up really well.
-
 I copied a handful of callsigns pretty easily:
 - KO4PDI - FL
 - KC4Y - AL
