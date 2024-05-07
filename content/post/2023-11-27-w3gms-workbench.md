@@ -2,7 +2,7 @@
 title: W3GMS Workbench - 2023-11-27
 subtitle: 
 date: 2023-11-27
-tags: ['w3gms', 'workbench', 'net']
+tags: ['w3gms', 'workbench', 'net', '985']
 draft: false
 ---
 
