@@ -26,6 +26,13 @@ or kept it coiled up,
 the SWR was lower.
 I still made most my contacts on 40m.
 
+I think the radio may have again been
+interfering with the mouse when transmitting.
+I already had chokes on both ends of the feed line,
+but adding the counterpoise helped
+that common mode interference.
+It was a rough day.
+
 The EFRW would not tune well at all on 40m
 with or without its single counterpoise.
 That surprised me greatly,
