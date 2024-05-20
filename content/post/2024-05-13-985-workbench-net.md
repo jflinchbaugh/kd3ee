@@ -32,7 +32,7 @@ draft: false
 - I saw some recovery today in the band today:
   Panama, Canary Islands, and the Cayman Islands.
 - Ron, WA3VEE, sent
-  [photos](https://wa3vee.smugmug.com/051024-KUTZTOWN-ANTIQUE-RADIO-SHOW**
+  [photos](https://wa3vee.smugmug.com/051024-KUTZTOWN-ANTIQUE-RADIO-SHOW)
   from the Antique Radio Meet in Kutztown.
 
 ### My Question for the Night
