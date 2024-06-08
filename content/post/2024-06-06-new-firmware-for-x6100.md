@@ -28,6 +28,9 @@ I can use `flrig`
 and have `wsjtx` and `fldigi`
 both talk to it simultaneously.
 That's the main improvement in my mind,
-but it includes some other nice improvements.
+but it includes some other fixes:
+- volume encoder can be spun quickly now
+- smoothing of the TX/SWR graphs
+- finer detail in the waterfall
 
 <!--more-->
