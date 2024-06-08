@@ -6,8 +6,6 @@ tags: ['x6100', 'firmware', 'r1cbu']
 draft: false
 ---
 
-### a header at h3
-
 There's a new person
 building onto Oleg's R1CBU firmware.
 He first made a [patch TGZ available](https://groups.io/g/xiegu-x6100/topic/105905552),
