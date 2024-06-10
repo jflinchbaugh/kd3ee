@@ -6,20 +6,19 @@ tags: ['antenna', 'vhf', 'uhf', 'mobile']
 draft: false
 ---
 
-I disassembled the inexpensive mag-mount antennas
+I removed the magnet
+from the inexpensive mag-mount antenna
 that I had stuck to a baking sheet
-in the back of the BMW i3 (all plastic).
+in the back of the BMW i3 (which is all plastic).
 The bike rack is always
 on the car,
-so removed the magnet
-from the antenna,
-and I cobbled together
+so I cobbled together
 some scrap metal parts
-to clamp the antenna
+and clamped the antenna
 onto the rack.
 It's got a screw knob,
 so I can loosen and reorient it
-when I raise and lower the bike rack.
+when I flip the bike rack.
 
 It works great now
 with the antenna
