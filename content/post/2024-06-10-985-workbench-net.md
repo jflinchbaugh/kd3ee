@@ -1,8 +1,8 @@
 ---
-title: 2024 06 10 985 Workbench Net
+title: 985 Workbench Net
 subtitle: 
 date: 2024-06-11T21:25:29-04:00
-tags: []
+tags: ['985', 'workbench', 'w3gms']
 draft: false
 ---
 
