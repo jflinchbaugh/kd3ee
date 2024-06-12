@@ -8,8 +8,8 @@ draft: false
 
 ### My Week in Radio
 
-- will miss field day - out of town
-- POTA around Harrisburg, York, and Lancaster
+- I'll miss field day.
+- POTA around Harrisburg, York, and Lancaster.
   - Mostly FT8/FT4
   - Also have been chase some phone park-to-park,
     and have been getting good reports with my little QRP radio
