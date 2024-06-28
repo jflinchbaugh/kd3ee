@@ -21,7 +21,7 @@ DX Engineering has a video about this.
 I didn't get it finished at the meeting,
 since because it got dark.
 
-### Memorial Day WeekendPOTA US-4361, Kings Gap Environmental Center
+### Memorial Day Weekend POTA US-4361, Kings Gap Environmental Center
 
 Matthew and I setup at
 [Kings Gap Environmetal Center (US-4361)](https://pota.app/#/park/US-4361)
