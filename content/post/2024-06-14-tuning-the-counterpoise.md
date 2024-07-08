@@ -19,3 +19,5 @@ I have to remember
 to watch performance
 and adjust the counterpoise
 as part of my setup and operating.
+
+<!--more-->
