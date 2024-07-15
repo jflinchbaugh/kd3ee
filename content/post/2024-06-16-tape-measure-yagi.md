@@ -21,7 +21,8 @@ by the clamps and banana clip adapter.
 I always like those for prototyping.
 As directed,
 I tuned the antenna
-by moving radiators in and out.
+by moving radiators in and out
+and measuring with the NanoVNA.
 
 The antenna is noticeably directional,
 so I can use it to find directions of signals.
