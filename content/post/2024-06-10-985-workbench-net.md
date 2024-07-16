@@ -1,5 +1,5 @@
 ---
-title: 985 Workbench Net
+title: 985 Workbench Net - 2024-06-11
 subtitle: 
 date: 2024-06-11T21:25:29-04:00
 tags: ['985', 'workbench', 'w3gms']
