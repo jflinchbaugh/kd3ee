@@ -48,9 +48,9 @@ pygmentsCodefencesGuessSyntax = true
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
 
-[[Params.author]]
-  name = "John Flinchbaugh KC3WWC"
-  email = "john@hjsoft.com"
+#[[Params.author]]
+  #name = "John Flinchbaugh KC3WWC"
+  #email = "john@hjsoft.com"
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
