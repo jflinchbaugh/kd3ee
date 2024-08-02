@@ -10,7 +10,7 @@ Prime Day popped up a few good-enough sales,
 so I bought a few things.
 
 - 50w dummy load
-- TIDradio td-h8 - HT, 10W, bluetooth, clear case, etc
+- TIDradio TD-H8 - HT, 10W, bluetooth, clear case, etc
 - TYT TH-UV8000D - HT, 10W, crossband repeater
   - This should allow me to crossband relay to a repeater
     via the outside antenna
