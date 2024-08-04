@@ -10,7 +10,7 @@ I have my UV-K5 and UV-K6
 running [aubs 00.07 firmware](https://github.com/AubsUK/uv-k5-firmware-custom/releases/tag/v00.07).
 I added a simplex frequency (446.100MHz)
 to use as with my local cross-band repeater
-in position 110
+in position 110.
 I added the new channel to scan list 1.
 
 Upon powering on the radio,
