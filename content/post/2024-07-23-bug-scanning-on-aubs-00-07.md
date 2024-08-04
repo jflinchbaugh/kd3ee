@@ -1,12 +1,12 @@
 ---
-title: "2024 07 23 Bug Scanning on Aubs 00 07"
+title: "Bug Scanning on Aubs 00.07"
 subtitle:
-date: 2024-08-02T16:36:41-04:00
-tags: []
+date: 2024-07-23
+tags: ['quansheng', 'ht', 'firmware', 'aubs', 'bug', 'scanning']
 draft: false
 ---
 
-I have my UV-K5 and UV-K6 
+I have my UV-K5 and UV-K6
 running [aubs 00.07 firmware](https://github.com/AubsUK/uv-k5-firmware-custom/releases/tag/v00.07).
 I added a simplex frequency (446.100MHz)
 to use as with my local cross-band repeater
@@ -44,6 +44,6 @@ on the project:
 - Is it something about the frequency of 460.100?
 - Or is channel 110 the problem?
 - Would another frequency in that spot be a problem?
-- Are there other channels that would trigger the issue?
+-ub Are there other channels that would trigger the issue?
 
 <!--more-->
