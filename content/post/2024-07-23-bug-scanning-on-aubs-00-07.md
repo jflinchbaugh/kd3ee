@@ -44,6 +44,6 @@ on the project:
 - Is it something about the frequency of 460.100?
 - Or is channel 110 the problem?
 - Would another frequency in that spot be a problem?
--ub Are there other channels that would trigger the issue?
+- Are there other channels that would trigger the issue?
 
 <!--more-->
