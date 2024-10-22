@@ -1,5 +1,5 @@
 ---
-title: "2024-09-06 Failed Upgrade for X6100"
+title: "Failed Upgrade for X6100"
 subtitle:
 date: 2024-09-06
 tags: ['x6100', 'xiegu', 'firmware']
