@@ -6,7 +6,7 @@ tags: ['x6100', 'xiegu', 'firmware']
 draft: false
 ---
 
-[https://www.radioddity.com/pages/xiegu-download](Radioddity)
+[Radioddity](https://www.radioddity.com/pages/xiegu-download)
 had the new firmware for the X6100.
 I downloaded it, wrote it, installed it, and rebooted it
 to see the stock APP 1.1.8 and BASE 1.1.7.
