@@ -21,4 +21,10 @@ I needed 37 correct.
   and throw line.
   The velcro strap remains a problem for snagging the line.
 
+{{< gallery >}}
+{{< figure link="/img/2024/2024-10-05-3d-printers.jpg" caption="Matt with 3D Printers" >}}
+{{< figure link="/img/2024/2024-10-05-antenna.jpg" caption="New Antenna Winder" >}}
+{{< /gallery >}}
+
+
 <!--more-->
