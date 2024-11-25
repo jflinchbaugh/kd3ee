@@ -8,7 +8,7 @@ draft: false
 
 ### Tilt-up Flag Pole
 I figured out to do a tilt-up flag pole
-against the house.
+against the house reaching 25 feet into the air.
 It sits on a stake in the garden,
 and is secured to the house with paracord
 in an eyelet and hook screwed into the side of the roof.
@@ -30,6 +30,13 @@ so I calculated it with 2 or 3 directors,
 but put none in for the first
 iteration.
 I can add more elements later.
+
+I gave it a try to reach 985
+with the TYT TH-9800 running 50W.
+It was scratchy,
+but copy-able.
+I have more flag pole sections
+ordered to make it a little higher.
 
 {{< gallery >}}
 {{< figure link="/img/2024/2024-10-16-yagi-1.jpg" caption="PVC attachment" >}}
