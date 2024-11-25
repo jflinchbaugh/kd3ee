@@ -6,7 +6,7 @@ tags: ['yagi', 'antenna', 'flagpole', 'w3gms', 'quansheng', 'testing']
 draft: false
 ---
 
-I added some sections to the flagpole
+I added some sections to the flag pole
 to reach 37 feet,
 and I increased elements
 on the home-made yagi
