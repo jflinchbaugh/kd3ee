@@ -2,7 +2,7 @@
 title: "2-Element Yagi on the Flag Pole"
 subtitle:
 date: 2024-10-16
-tags: ['yagi', 'antenna', 'flagpole']
+tags: ['yagi', 'antenna', 'flagpole', 'th-9800', 'w3gms', '985']
 draft: false
 ---
 
