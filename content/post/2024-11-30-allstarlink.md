@@ -31,8 +31,8 @@ I purchased the [hardware](https://www.amazon.com/dp/B0BPHJQ1BJ)
 from Amazon a while ago.
 It has a USB-C port,
 and the cable is flipped for different modes:
-- one way to program the frequency (USB serial),
-- other way to use the usb sound device for tx/rx
+- one way to program the frequency (USB serial
+- other way to use the USB sound device for TX/RX
 The product description mentioned the different modes,
 but I didn't recognize it.
 I learned about the flip from a
