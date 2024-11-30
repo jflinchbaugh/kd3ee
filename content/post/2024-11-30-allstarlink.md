@@ -24,7 +24,7 @@ I started out with the
   since the imager conveniently allows pre-configuring:
   - user
   - locale
-  - wifi network
+  - WiFi network
 
 ### Configured the Cheap Ausinc UHF AllStar Radio Dongle
 I purchased the [hardware](https://www.amazon.com/dp/B0BPHJQ1BJ)
