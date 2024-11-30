@@ -43,7 +43,7 @@ draft: false
   - brandmeister
 - can also be a private network
 - hotspots access dmr network via the internet
-- delmarvadmr.com
+- [delmarvadmr.com](https://delmarvadmr.com/)
 - 3 building blockse
   - talk groups
   - channels
