@@ -9,11 +9,11 @@ draft: false
 I finally got my AllStarLink 3
 node up and running.
 I had registered for a node number,
-and I had bought the pieces.
-The Pi Zero W boards wouldn't boot,
-so I used a Pi 4 that I have laying around
-with the USB radio device I purchased a while ago.
-
+and I had bought the pieces
+to have them ready to go.
+The little Pi Zero W boards I have wouldn't boot,
+so I used a Pi 4 instead
+with the USB radio device.
 
 ### Initial Installation on Pi 4
 I started out with the
