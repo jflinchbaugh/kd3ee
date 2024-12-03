@@ -43,7 +43,9 @@ I downloaded the `srfrs.py`
 to the Pi,
 and used it to configure frequency and tone
 to protect default access to it:
-`./srfrs.py --port /dev/ttyUSB0 --frequency 438.1 --ctcss 94.8`
+```
+./srfrs.py --port /dev/ttyUSB0 --frequency 438.1 --ctcss 94.8
+```
 Matthew, KC3WRY, suggested this frequency in the 70cm of the band.
 I was reading and wondering about 446.1 or 433 or so.
 
