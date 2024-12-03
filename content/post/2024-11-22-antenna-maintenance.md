@@ -10,7 +10,7 @@ The home-brew yagi blows around in the wind a bit,
 so I brought it down this morning as it started to snow,
 so I could straighten and tighten the elements.
 I realigned it for the 985 repeater,
-and checked it to be giving -96dBd.
+and checked it to be giving -96dBm.
 
 I also resoldered some radials on the 1/4-wave ground plane antenna
 that go knocked loose in the tree.
