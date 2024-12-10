@@ -83,4 +83,16 @@ my node to the repeater,
 so I'll have a chance to try it out there.
 I was also able to connect to [K3IR](https://k3ir.org/).
 
+I further tested my AllStar node
+talkin to the 985 repeater.
+I discovered the bit of a delay
+caused my node to often skip a moment
+in the beginning of others' transmissions,
+so I'd miss a second at the start.
+Also, since it's simplex,
+I couldn't throw any DTMF commands
+at it while the node is trasnmitting.
+I had to use the web interface
+to disconnect if others were talking 
+at the same time.
 <!--more-->
