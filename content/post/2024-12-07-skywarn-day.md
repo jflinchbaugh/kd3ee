@@ -1,12 +1,13 @@
 ---
-title: "Skywatch Appreciation Day: 2024-12-07"
+title: "Skywarn Recognition Day: 2024-12-07"
 subtitle:
 date: 2024-12-07
-tags: ['skywatch', '2m', 'n3kz', 'repeater', 'weather']
+tags: ['skywarn', '2m', 'n3kz', 'repeater', 'weather']
 draft: false
 ---
 
-7 December was apparently Skywatch Appreciation Day,
+7 December was apparently
+[Skywarn Recognition Day](https://www.weather.gov/crh/skywarnrecognition),
 so a station in Mount Holly,
 [WX2PHI](https://www.qrz.com/db/WX2PHI),
 was celebrating
