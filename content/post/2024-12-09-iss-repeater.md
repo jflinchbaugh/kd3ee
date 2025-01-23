@@ -1,7 +1,7 @@
 ---
 title: "ISS Repeater"
 subtitle:
-date: 2025-01-22T23:32:30-05:00
+date: 2024-12-09
 tags: ['iss', 'repeater', 'ka3tkw', '21']
 draft: false
 ---
