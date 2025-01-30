@@ -18,8 +18,13 @@ The yagi was spinning around in the wind,
 so I also changed the way it's mounted
 to clamp it more securely.
 
-{{< gallery >}}
-{{< figure link="/img/2024/2024-12-29-yagi-clamped.jpg" caption="Yagi clamped with washers" >}}
-{{< /gallery >}}
+I also added some reigns
+to the mast,
+so I can (try to) spin it
+from inside the window.
+It works well some times
+but not others.
+The pole can freeze
+to the ground.
 
 <!--more-->
