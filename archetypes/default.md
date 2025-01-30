@@ -11,7 +11,7 @@ draft: false
 [link](https://link)
 
 {{< gallery >}}
-{{< figure link="/img/2024/2024-04-24-2m-ground-plane-antenna.jpg" caption="2m Ground Plane Antenna" >}}
+{{< figure link="/img/2025/2025-01-24-photo.jpg" caption="describe it" >}}
 {{< /gallery >}}
 
 <!--more-->
