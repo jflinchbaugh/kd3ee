@@ -21,7 +21,7 @@ to clamp it more securely.
 I also added some reigns
 to the mast,
 so I can (try to) spin it
-from inside the window.
+[from inside the window](https://www.instagram.com/p/DEQlIgLPcAP/).
 It works well some times
 but not others.
 The pole can freeze
