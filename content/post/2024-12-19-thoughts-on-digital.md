@@ -24,7 +24,9 @@ Next, I'm learning CW, the original digital mode.
 It has the benefit
 of being common to see every day
 in POTA and in contests.
-CW is still low power and weak signal.
+CW is still low power and weak signal,
+and I can setup
+even quicker without a computer.
 It's exciting to learn the skill to key and to copy.
 I can currently key,
 but I need assistance to copy
