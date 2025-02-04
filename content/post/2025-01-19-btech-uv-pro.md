@@ -35,7 +35,7 @@ to generated an APRS code that worked in the HT app.
 
 I enabling digital mode
 in radio to make it periodically beacon my APRS location.
-I fixed the channel for sending APRS.
+I set it to a fixed channel for sending APRS.
 Only the HT app seems to be able
 to set the beacon text for APRS.
 
@@ -47,12 +47,12 @@ KC3WWC-7: hey
 ### TNC KISS Mode
 I installed [WoAD](https://woad.sumusltd.com/) on Android,
 and enabled TNC KISS on the radio.
-I paired the radio to the phone via bluetooth.
+I paired the radio to the phone via Bluetooth.
 I checked the Winlink RMS map on the website to find nearby packet gateways,
-and set the radio to the specified packet frequency.
+and set the radio to the given packet frequency for the gateway I was trying to use.
 I configured a session for the callsign and SSID of the Winlink gateway,
 and started the session.
-Now it'll send/receive queued email.
+Now it'll send and receive queued email.
 There's a log in WoAD that shows what it's doing.
 
 WoAD also has a terminal
@@ -62,10 +62,10 @@ I connected there
 to see some messages and a BBS software from 1990!
 
 [APRSDroid](https://aprsdroid.org/)
-can talk to KISS TNC
-over Bluetooth which is much nicer UI
+can also talk to KISS TNC
+over Bluetooth. It's a much nicer UI
 than the radio or HT app.
-Sometimes whet switching apps,
+Sometimes when switching apps,
 I needed to cycle power on the radio,
 but it doesn't usually take too much
 to get it going again.
