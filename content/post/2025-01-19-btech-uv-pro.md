@@ -8,7 +8,8 @@ draft: false
 
 ### Yet Another Radio
 I got interested in AX.25 packet over RF,
-so the Btech UV-Pro immediately looked
+so the [Btech UV-Pro](https://baofengtech.com/product/uv-pro/)
+immediately looked
 like an interesting jumpstart,
 when it got a firmware update that allowed
 it to operate as a KISS TNC over Bluetooth.
