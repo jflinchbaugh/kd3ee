@@ -2,7 +2,7 @@
 title: "SPARC Elmer Night: 2025-01-21"
 subtitle:
 date: 2025-01-21
-tags: ['sparc', 'meeting', 'elmer', 'btech', 'uv-pro']
+tags: ['sparc', 'meeting', 'elmer', 'btech', 'uvpro']
 draft: false
 ---
 
