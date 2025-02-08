@@ -35,7 +35,7 @@ pygmentsCodefencesGuessSyntax = true
 #  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
 
 [[Params.bigimg]]
-  src = "img/radio-big-img.jpg"
+  src = "/img/radio-big-img.jpg"
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
 #  desc = "Triangle"
