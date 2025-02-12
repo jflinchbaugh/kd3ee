@@ -6,7 +6,7 @@ tags: ['antenna', 'hf' 'dx', 'efrw', 'home']
 draft: false
 ---
 
-The new antenna's doing OK,
+The new 107-ft (32.6m) EFRW is doing OK,
 and I'm getting pretty lucky
 with low power on 10M FT8.
 
