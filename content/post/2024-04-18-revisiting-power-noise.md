@@ -1,6 +1,6 @@
 ---
 title: Revisiting Power Noise
-subtitle: 
+subtitle:
 date: 2024-04-18T16:59:56-04:00
 tags: ['power', 'noise', 'x6100', 'xiegu', 'battery']
 draft: false
@@ -14,10 +14,10 @@ when plugged
 into AC power.
 
 Running on battery was fine,
-and running 
+and running
 on the external lead-acid 12V battery
 was OK too.
-For weeks, 
+For weeks,
 I used the battery
 to smooth the noise.
 I'd run an AC power supply
@@ -32,21 +32,21 @@ circuit made it hard
 to balance input power and output power
 just right to keep it smooth.
 
-I asked around on the 
+I asked around on the
 [X6100 mailing list](https://groups.io/g/xiegu-x6100/topic/103401251#4578)
 and I got 2 suggestions I took:
-- a [filter](https://www.amazon.com/dp/B07HTM7Q7F?th=1) I can use 
+- a [filter](https://www.amazon.com/dp/B07HTM7Q7F?th=1) I can use
   with any cheap power supply I already have
-- a cleaner, 
+- a cleaner,
   and inexpensive,
   [switching power supply](https://www.mpja.com/12-Volt-Adapter-Power-Supply-5A-Ateck/productinfo/36374+PS/)
-  from Ateck that puts out a fixed 12V/5A
+  from Ateck that puts out a fixed 12V/5A (Part#: PS120V5-D)
 
-I purchased both to try, 
-and both helped immensely, 
+I purchased both to try,
+and both helped immensely,
 each on their own.
 
-I wired up the filter 
+I wired up the filter
 with some 5525 connectors
 and printed a case for it.
 I use the filter in combination
@@ -54,9 +54,9 @@ with my adjustable 24V/5A power supply
 on the go.
 That higher-voltage power supply
 is also useful
-to charge the LiFePO4 battery 
+to charge the LiFePO4 battery
 at 14.1V.
-The battery also lives in my box 
+The battery also lives in my box
 for portable operation.
 
 
