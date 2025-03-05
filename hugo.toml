@@ -146,3 +146,8 @@ pygmentsCodefencesGuessSyntax = true
     name = "Photography"
     url = "https://photography.johnflinchbaugh.com/"
     weight = 2
+[[menu.main]]
+    parent = "Other Places"
+    name = "GitHub"
+    url = "https://github.com/jflinchbaugh/kc3wwc"
+    weight = 3
