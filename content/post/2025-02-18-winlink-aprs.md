@@ -18,8 +18,9 @@ to K3IR's Winlink gateway (145.030kHz)
 and checked my Winlink mail
 over the radio.
 
-I needed to be careful to not let HT app start
-and re-enable "digital mode"
+I needed to be careful
+to not let HT app start
+and re-enable "digital mode".
 When "digital mode" is enabled,
 it would switch to APRS 144.390MHz
 every time WoAD would TX,
