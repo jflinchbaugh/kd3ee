@@ -6,7 +6,6 @@ tags: ['hf', 'antenna', 'wire']
 draft: false
 ---
 
-
 The rope came undone at far end
 of my EFRW.
 I had to fish it back down
