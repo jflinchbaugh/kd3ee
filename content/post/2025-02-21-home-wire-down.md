@@ -15,7 +15,7 @@ in a fishing pole.
 The SWR was a bit high,
 and I found broken wires
 in 9:1 balun,
-so stripped the wires
+so I stripped the wires
 and reassembled it.
 
 With the antenna working again,
