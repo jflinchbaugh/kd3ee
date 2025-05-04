@@ -2,7 +2,7 @@
 title: "Newly-Tuned Slim Jim"
 subtitle:
 date: 2025-02-25
-tags: ['antenna, 'vhf', 'slimjim']
+tags: ['antenna', 'vhf', 'slimjim']
 draft: false
 ---
 
