@@ -11,7 +11,7 @@ draft: false
 I reconditioned my HF antenna.
 The SWR was being wonky and variable
 on the 107ft EFRW: jumping to 3:1 with tuner.
-I cleaned up the wire ends and aligator clips
+I cleaned up the wire ends and alligator clips
 with sandpaper, reconnected them,
 and repositioned the counterpoise.
 Now I'm seeing 1.5:1 SWR with the tuner.
