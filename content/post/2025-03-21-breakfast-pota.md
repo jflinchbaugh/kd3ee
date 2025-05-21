@@ -2,7 +2,7 @@
 title: "Breakfast and POTA"
 subtitle:
 date: 2025-03-21
-tags: ['pota', 'efhw', 'tdl']
+tags: ['pota', 'efhw', 'tdl', 'antenna', 'hf']
 draft: false
 ---
 
