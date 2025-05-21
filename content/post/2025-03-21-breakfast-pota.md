@@ -30,5 +30,4 @@ with the telescoping antenna for a CB walkie talkie.
 {{< figure link="/img/2025/2025-03-21-state-game-setup.jpg" caption="Setup along the road" >}}
 {{< /gallery >}}
 
-
 <!--more-->
