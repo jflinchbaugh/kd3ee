@@ -13,12 +13,13 @@ After breakfast,
 I hit the parks
 for some POTA.
 I started at
-[https://pota.app/#/park/US-8745](Middle Creek)
+[Middle Creek](https://pota.app/#/park/US-8745)
 where I tested my EFHW
 vs the Tactical Delta Loop.
 
-Next, I setup at a
-[https://pota.app/#/park/US-8854](State Game Land) down the road
+Next, I setup at
+[State Game Land 156](https://pota.app/#/park/US-8854)
+down the road
 with the telescoping antenna for a CB walkie talkie.
 
 {{< gallery >}}
