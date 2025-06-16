@@ -6,8 +6,6 @@ tags: ['hf', 'antenna']
 draft: false
 ---
 
-### a header at h3
-
 I reconditioned my HF antenna.
 The SWR was being wonky and variable
 on the 107ft EFRW: jumping to 3:1 with tuner.
