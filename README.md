@@ -1,6 +1,6 @@
 # KC3WWC Web Site
 
-https://kc3wwc.johnflinchbaugh.com/
+https://kd3ee.johnflinchbaugh.com/
 
 Build with Hugo.
 
