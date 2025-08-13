@@ -1,6 +1,6 @@
 baseurl = "https://kc3wwc.johnflinchbaugh.com/"
 DefaultContentLanguage = "en"
-title = "John Flinchbaugh KC3WWC"
+title = "John Flinchbaugh KD3EE"
 # Using theme as git submodule 
 theme = "beautifulhugo"
 # Or when using theme as hugo module
@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-  homeTitle = "John Flinchbaugh KC3WWC"
+  homeTitle = "John Flinchbaugh KD3EE"
   subtitle = "Adventures in Amateur Radio"
   mainSections = ["post","posts"]
   logo = "/img/radio-avatar.jpg" # Expecting square dimensions
@@ -49,12 +49,12 @@ pygmentsCodefencesGuessSyntax = true
 #  desc = "Hexagon"
 
 #[[Params.author]]
-  #name = "John Flinchbaugh KC3WWC"
+  #name = "John Flinchbaugh KD3EE"
   #email = "john@hjsoft.com"
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "John Flinchbaugh KC3WWC"
+  name = "John Flinchbaugh KD3EE"
   website = "https://kc3wwc.johnflinchbaugh.com/"
   email = "john@hjsoft.com"
   #facebook = "jflinchbaugh.3"
@@ -126,12 +126,12 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     name = "QRZ"
-    url = "https://www.qrz.com/db/KC3WWC"
+    url = "https://www.qrz.com/db/KD3EE"
     weight = 4
 
 [[menu.main]]
     name = "POTA"
-    url = "https://pota.app/#/profile/KC3WWC"
+    url = "https://pota.app/#/profile/KD3EE"
     weight = 4
 [[menu.main]]
     name = "Other Places"
