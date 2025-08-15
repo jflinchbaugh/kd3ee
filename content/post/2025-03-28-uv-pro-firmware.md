@@ -1,7 +1,7 @@
 ---
 title: "UV-Pro Firmware"
 subtitle:
-date: 2025-03-28T
+date: 2025-03-28
 tags: ['uv-pro', 'btech', 'aprs']
 draft: false
 ---
