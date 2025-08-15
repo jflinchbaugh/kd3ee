@@ -22,6 +22,6 @@ they've been flip-flopping features between 8.2.x and 8.3.
 It has bold/yellow fonts (or not),
 and new button actions to access groups.
 NOAA alerts have also come and gone
-to see about RX performance
+to see if they affect RX performance overall.
 
 <!--more-->
