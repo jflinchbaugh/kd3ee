@@ -15,11 +15,10 @@ to the APRS channel frequently.
 I've been using stock APRSdroid
 over the TNC connection,
 but it takes a little fiddling sometimes
-to get it to connect sometimes.
+to get it to connect.
 
 In the new firmware,
-they've been flip-flopping between versions
-and features around 8.2.x and 8.3.
+they've been flip-flopping features between 8.2.x and 8.3.
 It has bold/yellow fonts (or not),
 and new button actions to access groups.
 NOAA alerts have also come and gone
