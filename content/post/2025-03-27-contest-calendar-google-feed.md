@@ -1,5 +1,5 @@
 ---
-title: "Contest Calendar has a Google Feed"
+title: "Contest Calendar Has a Google Feed"
 subtitle:
 date: 2025-03-27
 tags: ['contests', 'calendar']
