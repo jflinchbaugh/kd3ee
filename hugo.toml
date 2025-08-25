@@ -1,4 +1,4 @@
-baseurl = "https://kc3wwc.johnflinchbaugh.com/"
+baseurl = "https://kd3ee.johnflinchbaugh.com/"
 DefaultContentLanguage = "en"
 title = "John Flinchbaugh KD3EE"
 # Using theme as git submodule 
@@ -55,7 +55,7 @@ pygmentsCodefencesGuessSyntax = true
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "John Flinchbaugh KD3EE"
-  website = "https://kc3wwc.johnflinchbaugh.com/"
+  website = "https://kd3ee.johnflinchbaugh.com/"
   email = "john@hjsoft.com"
   #facebook = "jflinchbaugh.3"
   #github = "jflinchbaugh"
@@ -149,5 +149,5 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "Other Places"
     name = "GitHub"
-    url = "https://github.com/jflinchbaugh/kc3wwc"
+    url = "https://github.com/jflinchbaugh/kd3ee"
     weight = 3
