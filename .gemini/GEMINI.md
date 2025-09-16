@@ -1,2 +1,4 @@
 - always derive and include tags in the article
 - always end the article with `<!--more-->`, so it doesn't truncate
+- include links to the pota website for parks
+- include links to images in the `static/img` folder that will match by date
