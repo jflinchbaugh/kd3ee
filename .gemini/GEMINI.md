@@ -2,3 +2,4 @@
 - always end the article with `<!--more-->`, so it doesn't truncate
 - include links to the pota website for parks
 - include links to images in the `static/img` folder that will match by date
+- in markdown lists, include only one space after the bullet
