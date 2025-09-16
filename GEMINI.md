@@ -1,0 +1,2 @@
+- always derive and include tags in the article
+- always end the article with `<!--more-->`, so it doesn't truncate
