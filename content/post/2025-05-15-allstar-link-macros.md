@@ -20,9 +20,7 @@ The macro definition for this is:
 1 = *353085
 ```
 
-And to make things even easier,
-I configured `*6`
-as a quick way to disconnect
+I can `*6` to quickly disconnect
 from all active connections.
 
 <!--more-->
