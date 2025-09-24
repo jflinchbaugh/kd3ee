@@ -5,10 +5,10 @@ tags: ['ARRL', 'HF', 'fldigi', 'PSK31', 'MFSK16', 'hurricane', 'digital']
 draft: false
 ---
 
-I had `fldigi` listening to `SDR++` 
+I had `fldigi` listening to `SDR++`
 tuned to 7096kHz LSB for 20 minutes
 and decoded a couple different documents
-via differetn modes.
+via different modes.
 
 I also spun the dial
 to catch a couple other transmissions.
