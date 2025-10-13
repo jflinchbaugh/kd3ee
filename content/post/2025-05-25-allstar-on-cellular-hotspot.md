@@ -1,7 +1,7 @@
 ---
-title: "Allstar on Cellular Hotspot"
+title: "AllStar on Cellular Hotspot"
 subtitle:
-date: 2025-10-13T16:31:58-04:00
+date: 2025-05-25
 tags: ['allstar', 'cellular']
 draft: false
 ---
