@@ -2,7 +2,7 @@
 title: "High SWR 80m EFHW"
 subtitle:
 date: 2025-06-11
-tags: ['efhw', '80m',']
+tags: ['efhw', '80m','antenna']
 draft: false
 ---
 
