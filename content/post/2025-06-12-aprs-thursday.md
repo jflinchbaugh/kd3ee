@@ -2,7 +2,7 @@
 title: "APRS Thursday"
 subtitle:
 date: 2025-06-12
-tags: ['aprs', 'uvpro', 'hotg']
+tags: ['aprs', 'uvpro', 'hotg', 'net']
 draft: false
 ---
 
