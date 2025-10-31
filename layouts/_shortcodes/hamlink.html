@@ -1,0 +1,10 @@
+{{- with .Get "callsign" -}}
+{{- if . -}}
+<a href = "https://www.qrz.com/db/{{ . }}">{{ . }}</a>
+{{- end -}}
+{{- end -}}
+{{- with .Get "pota" -}}
+{{- if . -}}
+<a href = "https://pota.app/#/park/{{ . }}">{{ . }}</a>
+{{- end -}}
+{{- end -}}
