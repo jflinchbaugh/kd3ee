@@ -1,6 +1,6 @@
 {{- with .Get "qrz" -}}
-<a href = "https://www.qrz.com/db/{{.}}">{{ $.Get "desc" | default . }}</a>
+<a href="https://www.qrz.com/db/{{.}}">{{ $.Get "desc" | default . }}</a>
 {{- end -}}
 {{- with .Get "pota" -}}
-<a href = "https://pota.app/#/park/{{.}}">{{ $.Get "desc" | default . }}</a>
+<a href="https://pota.app/#/park/{{.}}">{{ $.Get "desc" | default . }}</a>
 {{- end -}}
