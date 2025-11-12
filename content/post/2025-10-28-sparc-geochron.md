@@ -4,7 +4,7 @@ subtitle:
 date: 2025-10-28
 tags: ['sparc', 'meeting', 'geochron']
 draft: false
---
+---
 
 - https://www.geochron.com/
 - Owner: Patrick Bolan
