@@ -2,7 +2,7 @@
 title: "SPARC: Geochron"
 subtitle:
 date: 2025-10-28
-tags: ['sparc', 'meeting', 'geochron']
+tags: ['sparc', 'meeting', 'geochron', 'k3ir']
 draft: false
 ---
 
