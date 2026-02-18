@@ -1,7 +1,7 @@
 ---
 title: "Fixed Slim Jim"
 subtitle:
-date: 2026-02-18T13:02:43-05:00
+date: 2026-02-11
 tags: [antenna, slim-jim]
 draft: false
 ---
