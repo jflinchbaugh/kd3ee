@@ -26,7 +26,8 @@ but it tested to be just about right
 for 146MHz when I put the VNA on it.
 
 {{<gallery>}}
-{{<figure link="/img/2026/2026-02-17-t2lt.jpg" caption="describe it">}}
+{{<figure link="/img/2026/2026-02-17-t2lt.jpg" caption="choke on t2lt">}}
+{{<figure link="/img/2026/2026-02-17-t2lt-installed.jpg" caption="t2lt installed">}}
 {{</gallery>}}
 
 <!--more-->
