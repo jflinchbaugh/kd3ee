@@ -9,7 +9,7 @@ draft: false
 I brought down the Slim Jim
 with its existing halyard
 that's slung over a branch in the front tree.
-I used the that halyard
+I used that halyard
 to pull a throw weight and pulley
 on a new line into the same spot.
 I dropped the pulley straight down from high spot in the tree,
